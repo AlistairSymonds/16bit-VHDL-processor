@@ -15,6 +15,7 @@ end entity;
 
 architecture arch of super_control is
 
+
 --utility declarations
 
 type pipeline_conns is record
